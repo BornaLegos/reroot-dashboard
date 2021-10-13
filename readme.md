@@ -4,7 +4,6 @@ Reroot - Dashboard
 
 An example of Dashboard design with responsive table using different SCSS modules
 
-
 ## Requirements
 
 - Node
